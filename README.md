@@ -44,6 +44,4 @@ So, you've got the basics down. What's next?
 - [`simple-git`](https://www.npmjs.com/package/simple-git) - For easy Git commands.
 - [`random`](https://www.npmjs.com/package/random) - To generate random numbers for the commits.
 
-## Credits
 
-Huge thanks to [Akshay Saini](https://github.com/akshaymarch7) for the original video behind this project.
